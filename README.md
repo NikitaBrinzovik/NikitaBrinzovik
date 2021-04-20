@@ -19,7 +19,7 @@
 <br />
 
 
-Привет, меня зовут Никита. Сейчас обучаюсь на front-end разработчика в it-incubator. Изучаю несколько интересных технологий: HTML, CSS, JavaScript, React, TypeScript, Git, Redux.
+Привет, меня зовут Никита. Сейчас обучаюсь на front-end разработчика в it-incubator. Изучаю несколько интересных технологий: HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook.
 
 <br />
 
