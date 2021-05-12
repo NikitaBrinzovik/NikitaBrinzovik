@@ -10,7 +10,7 @@
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/your_profile">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://t.me/MrNikita1" />
 </a>
 <a href="https://www.instagram.com/your_profile">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -26,7 +26,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook, Bootstrap
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook, Bootstrap (just touched), Material-UI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
