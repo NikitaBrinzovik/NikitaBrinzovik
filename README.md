@@ -19,14 +19,14 @@
 <br />
 
 
-Привет, меня зовут Никита. Сейчас обучаюсь на front-end разработчика в it-incubator. Изучаю несколько интересных технологий: HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook, Bootstrap (just touched), Material-UI, JEST, Unit-Tests, TDD 
+Привет, меня зовут Никита. Сейчас обучаюсь на front-end разработчика в it-incubator. Изучаю несколько интересных технологий: HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook, Bootstrap (just touched), Material-UI, JEST, Unit-Tests, TDD, snapshots, Postman
 
 <br />
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook, Bootstrap (just touched), Material-UI, JEST, Unit-Tests, TDD
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook, Bootstrap (just touched), Material-UI, JEST, Unit-Tests, TDD, snapshots, Postman
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
