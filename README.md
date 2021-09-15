@@ -6,7 +6,7 @@
 <a href="https://twitter.com/your_profile">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/your_profile">
+<a href="https://www.linkedin.com/in/nikita-kuznetsov-2ab126208/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/your_profile">
@@ -19,18 +19,13 @@
 <br />
 
 
-Привет, меня зовут Никита. Сейчас обучаюсь на front-end разработчика в it-incubator. Изучаю несколько интересных технологий: HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook, Bootstrap (just touched), Material-UI, JEST, AXIOS, Unit-Tests, TDD, snapshots, Postman
+Привет, меня зовут Никита. Сейчас обучаюсь на front-end разработчика в it-incubator. Изучаю несколько интересных технологий: HTML, CSS, JavaScript, React, TypeScript, React-Hooks, Git, Redux, Redux-Thunk, Redux-Ducks, StoryBook, Bootstrap (just touched), Material-UI, JEST, AXIOS, Unit-Tests, TDD, snapshots, Postman, Formik
 
 <br />
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: freelance
-- 🌱 I’m currently learning: HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook, Bootstrap (just touched), Material-UI, JEST, Unit-Tests, TDD, snapshots, Postman, AXIOS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, React, TypeScript, Git, Redux, StoryBook, Bootstrap (just touched), Material-UI, JEST, Unit-Tests, TDD, snapshots, Postman, AXIOS, Formik
 - 📫 How to reach me: 101011110111111001110001110001110111110000110110110010110101110101111000
 - 😄 Pronunciation: russian, canadian
-- ⚡ Fun fact: this commit just for commit) becouse Im learning right now, but nothing to commit and its so sad(
+- ⚡ Fun fact: I love working 
 -->
