@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/nikita-kuznetsov-2ab126208/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/your_profile">
-  <img align="left" alt="Nikita" width="22px" src="https://t.me/MrNikita1" />
+<a href="https://t.me/MrNikita1">
+  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 <https://t.me/MrNikita1/a>
 
 <br />
