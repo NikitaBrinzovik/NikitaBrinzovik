@@ -17,5 +17,5 @@
 - 🌱 I’m currently learning:  Redux-Saga
 - 📫 How to reach me: 101011110111111001110001110001110111110000110110110010110101110101111000
 - 😄 Pronunciation: russian, canadian
-- ⚡ Fun fact: I love working, but studing more))
+- ⚡ Fun fact: I love working, but study more))
 -->
