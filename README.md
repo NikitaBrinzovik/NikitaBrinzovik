@@ -9,12 +9,12 @@
 <br />
 
 
-Привет, меня зовут Никита, я front-end разработчик. Работаю со следующим стеком технологий: HTML, CSS, JavaScript, React, TypeScript, React-Hooks, Git, Redux, Redux-Thunk, Redux-Ducks, StoryBook, Bootstrap (just touched), Material-UI, JEST, AXIOS, Unit-Tests, TDD, snapshots, Postman, Formik
+Привет, меня зовут Никита, я front-end разработчик. Работаю со следующим стеком технологий: TypeScript, Angular, RxJS, NGXS, Mocha, Karma, Docker
 
 <br />
 
-- 🔭 I’m currently working on: freelance
-- 🌱 I’m currently learning:  Redux-Saga
+- 🔭 I’m currently working in: LANIT 
+- 🌱 I’m currently learning:  Mocha and Karma
 - 📫 How to reach me: 101011110111111001110001110001110111110000110110110010110101110101111000
 - 😄 Pronunciation: russian, canadian
 - ⚡ Fun fact: I love working, but study more))
